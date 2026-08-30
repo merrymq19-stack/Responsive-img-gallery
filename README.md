@@ -7,7 +7,7 @@ It includes **hover effects**, **caption overlays**, and **category filters** fo
 ---
 
 ## ✅ Features
-- 📸 Responsive grid layout for all screen sizes
+- 📸 Responsive grid layout for all screen
 - ✨ Hover effects with smooth zoom animation
 - 🏷️ Image captions with overlay effect
 - 🔍 Filter buttons to display specific categories (Nature, Tech, People)
